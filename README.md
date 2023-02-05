@@ -5,9 +5,13 @@ The Voĉo is in its core a voip provider that aims to provide unparalel features
 Our team is made up of experienced professionals who are passionate about connecting customers to businesses. We use the latest technologies and innovative approaches to ensure that we provide the best sip trunking platform in the market.
 
 ## Our Products/Services
-- [Insert product/service 1]
-- [Insert product/service 2]
-- [Insert product/service 3]
+- Classic SIP Trunk provider
+- SIP Trunk aggregation of your own SIP trunks
+- Public search interface to find and connect with your business directly from the browser
+- BI Reporting, build-in or with your own tools (PowerBI or Tablou)
+- AI Transcription
+- AI Call-center routing
+- Compliance
 
 ## Features
 - [Insert key feature 1]
