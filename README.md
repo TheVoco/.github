@@ -29,14 +29,13 @@ Get the most out of your investment with The Voĉo's value for money offering.
 - Tons of features: 
 Take advantage of tons of features to help grow and streamline your business.
 
-With The Voĉo, you can experience the best in [insert company's products/services]. Start your journey with us today!
+With The Voĉo, you will experience the best sip trunking platform we can imagin. Start your journey with us today!
 
 ## Getting Started
-To get started with The Voĉo, you can [insert action, e.g. visit our website, contact us, etc.].
+To get started with The Voĉo, signup today on our website at [https://www.thevoco.com](https://www.thevoco.com).
 
 ## Stay Connected
 Follow us on [insert social media platform 1], [insert social media platform 2], and [insert social media platform 3] for updates and news.
 
 We're excited to have you be a part of the The Voĉo family!
 
-Visit our website at [https://www.thevoco.com](https://www.thevoco.com) for more information.
